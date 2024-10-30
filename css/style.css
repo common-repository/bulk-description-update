@@ -1,0 +1,70 @@
+fieldset{
+	border: 1px solid #BFBAB0;    
+	background-color: #F2EFE9; 
+	padding: 0;
+	width: 90%;
+	margin-left: 1em;
+}
+
+legend {    
+	margin-left: 1em;    
+	padding: 0;    
+	color: #000;    
+	font-weight: bold;  
+	font-size: 14px;  
+}
+
+h2{
+	font-size:13px;
+	font-weight:bold;
+	margin-left:2em;
+}
+
+h3{
+	font-size:12px;
+	font-weight:bold;
+}
+
+select{
+	margin-left:2em;
+	margin-bottom:1em;
+}
+
+table{
+	margin-top:2em;
+	margin-left:1em;
+	margin-right:1em;
+	width:97%;
+}
+
+th{
+	font-size:12px;
+	font-weight:bold;
+	background-color:#f9d684;
+}
+
+.odd{
+	background-color:#fcf4c7;
+}
+
+.even{
+	background-color:#f9d684;
+}
+
+.showEffect{
+	position:relative;
+	left:0px;
+	top:0px;
+	width:96%;
+	background-color:#ffffff;
+	display:none;
+	border:solid;
+	border-color:rgb(240,197,99);
+}
+
+textarea{
+	width:96%;
+}
+
+
+
